@@ -1,14 +1,16 @@
 {
   "name": "latihan-backend",
   "version": "1.0.0",
-  "description": "latihan membuat server",
+  "description": "latihan buat server",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Yuli Yana",
+  "author": "yuli yana",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1"
+    "bcrypt": "^5.0.1",
+    "express": "^4.17.1",
+    "mongoose": "^5.12.3"
   }
 }
